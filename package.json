@@ -1,0 +1,16 @@
+{
+  "name": "minimize-img",
+  "version": "1.0.0",
+  "description": "minimizes images",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gm": "^1.22.0",
+    "mkdirp": "^0.5.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
